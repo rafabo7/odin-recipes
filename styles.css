@@ -1,0 +1,25 @@
+body {
+    font-family: Papyrus;
+    background-color: rgb(255, 219, 171);
+}
+
+.header-section {
+   text-align: center;
+}
+
+/* a {
+    remove color and underline
+} */
+
+#main-page-list {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    margin: 24px auto;
+}
+
+label {
+    display: flex;
+    flex-direction: column;
+    
+}
